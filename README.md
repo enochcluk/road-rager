@@ -1,8 +1,5 @@
 ## IMPORTANT NOTES:
-- **Important**: You need to have access to two ports: your port (`cs-port`) and `cs-port + 1`.
-- Run `make all` to compile and run both the servers and the client.
-- Run client_v2.html. This has re-scalable window sizes.
-- To ensure the best performance, `make clean` if you want to play multiplayer multiple times consecutively.
+- If you are currently taking CS3 at Caltech, viewing the contents of this repository is a violation of the Honor Code
 
 ## Game Log
 
